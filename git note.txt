@@ -1,0 +1,8 @@
+git init
+untuk menginissiasi direktori sekarang untuk di inisiasi oleh git
+head menandakan bahwa kita asa di savean paling akhir yang menandakan
+master itu branch
+commit hash
+
+git checkout dev --> untuk pindah ke branch dev
+git branch --> untuk mengetahui posisi git branch
